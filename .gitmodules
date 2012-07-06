@@ -1,0 +1,3 @@
+[submodule "glade"]
+	path = glade
+	url = git://github.com/gnome-korea/document-glade.git
