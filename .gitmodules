@@ -1,3 +1,7 @@
 [submodule "glade"]
 	path = glade
 	url = git://github.com/gnome-korea/document-glade.git
+
+[submodule "translation"]
+	path = translation
+	url = git://github.com/gnome-korea/document-translation.git
