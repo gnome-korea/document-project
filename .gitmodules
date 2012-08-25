@@ -5,3 +5,6 @@
 [submodule "translation"]
 	path = translation
 	url = git://github.com/gnome-korea/document-translation.git
+[submodule "cogl"]
+	path = cogl
+	url = git://github.com/gnome-korea/document-cogl.git
